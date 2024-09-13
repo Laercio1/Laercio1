@@ -5,6 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laerciopereiraofc?igsh=MTNmMGo2MGI0ZGdoaw%3D%3D&utm_source=qr)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/bL7yMdUpHSUpjnxJ/?mibextid=LQQJ4d)
 [![Blog](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/laerciofernandes772)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laerciofernandes772@gmail.com)
 
 <div>
     <img height="200cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula"/>
