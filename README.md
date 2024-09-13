@@ -7,8 +7,8 @@
 [![Blog](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/laerciofernandes772)
 
 <div>
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula"/>
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula" />
+    <img height="200cm" width="430cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula"/>
+    <img height="200cm" width="330cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
@@ -27,3 +27,6 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da 
 programação.
+
+
+
