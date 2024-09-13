@@ -8,7 +8,7 @@
 
 <div>
     <img height="200cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula"/>
-    <img height="200cm" width="340cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula" />
+    <img height="200cm" width="340cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laercio1&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
