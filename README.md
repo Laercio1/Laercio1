@@ -8,8 +8,8 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laerciofernandes772@gmail.com)
 
 <div>
-    <img height="200cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula"/>
-    <img height="200cm" width="340cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laercio1&layout=compact&show_icons=true&theme=dracula" />
+    <img height="200cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=Laercio1&show_icons=true&theme=dracula&locale=pt-br"/>
+    <img height="200cm" width="340cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laercio1&layout=compact&show_icons=true&theme=dracula&locale=pt-br" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
