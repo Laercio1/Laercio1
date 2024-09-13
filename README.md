@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0acf97&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laércio+Fernandes;I'm+23+years+old;I+am+from+Araguaína,+TO;I+study+Software+Engineering+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98a6ad&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laércio+Fernandes;I'm+23+years+old;I+am+from+Araguaína,+TO;I+study+Software+Engineering+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Laércio, um desenvolvedor Back end com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
